@@ -8,6 +8,3 @@ Implementing webflux with swagger and basic authentication
   Run postgres:
   ```docker-compose up```
   
-  in-memory user:
-  username: admin
-  password: admin
